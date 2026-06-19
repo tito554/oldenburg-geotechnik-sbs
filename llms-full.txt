@@ -1,0 +1,50 @@
+# Geotechnik — Oldenburg
+
+> Geotechnical engineering services in Oldenburg, Deutschland.
+
+## Services
+- [Anker](https://oldenburg.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://oldenburg.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://oldenburg.geotechnik.sbs/aushub/)
+- [Bodenplatten](https://oldenburg.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://oldenburg.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://oldenburg.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://oldenburg.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://oldenburg.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://oldenburg.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://oldenburg.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://oldenburg.geotechnik.sbs/fundamente/)
+- [Geophysik](https://oldenburg.geotechnik.sbs/geophysik/)
+- [Grundungen](https://oldenburg.geotechnik.sbs/grundungen/)
+- [Hange](https://oldenburg.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://oldenburg.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://oldenburg.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://oldenburg.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://oldenburg.geotechnik.sbs/labor/)
+- [Labor In Situ](https://oldenburg.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://oldenburg.geotechnik.sbs/masw/)
+- [Pfahle](https://oldenburg.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://oldenburg.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://oldenburg.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://oldenburg.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://oldenburg.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://oldenburg.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://oldenburg.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://oldenburg.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://oldenburg.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://oldenburg.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://oldenburg.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://oldenburg.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://oldenburg.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://oldenburg.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://oldenburg.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://oldenburg.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://oldenburg.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://oldenburg.geotechnik.sbs/weichbodentunnel/)
+
+## Contact
+- Website: https://oldenburg.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Oldenburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
